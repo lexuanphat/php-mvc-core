@@ -1,0 +1,15 @@
+{
+    "name": "lxp/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Lxp\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phatlx149",
+            "email": "phatle1913@gmail.com"
+        }
+    ],
+    "require": {}
+}
