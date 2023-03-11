@@ -1,7 +1,7 @@
 <?php
-namespace app\core; 
+namespace lexuanphat\phpmvc; 
 
-use app\core\db\DbModel;
+use lexuanphat\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel{
 

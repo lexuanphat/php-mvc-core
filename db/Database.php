@@ -1,7 +1,7 @@
 <?php
-namespace app\core\db;
+namespace lexuanphat\phpmvc\db;
 
-use app\core\App;
+use lexuanphat\phpmvc\App;
 use PDO;
 
 class Database{

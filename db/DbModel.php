@@ -1,8 +1,8 @@
 <?php
-namespace app\core\db;
+namespace lexuanphat\phpmvc\db;
 
-use app\core\App;
-use app\core\Model;
+use lexuanphat\phpmvc\App;
+use lexuanphat\phpmvc\Model;
 
 abstract class DbModel extends Model{
 

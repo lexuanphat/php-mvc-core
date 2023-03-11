@@ -1,7 +1,7 @@
 <?php
-namespace app\core\form;
+namespace lexuanphat\phpmvc\form;
 
-use app\core\Model;
+use lexuanphat\phpmvc\Model;
 
 class InputField extends BaseField
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace lexuanphat\phpmvc;
 
-use app\core\exception\NotFoundException;
+use lexuanphat\phpmvc\exception\NotFoundException;
 
 class Router
 {
@@ -58,7 +58,7 @@ class Router
             */
 
             /**
-             * @var \app\core\Controller $controller;
+             * @var \lexuanphat\phpmvc\Controller $controller;
              */
 
             $controller = new $callback[0];

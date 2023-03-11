@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace lexuanphat\phpmvc\form;
 
-use app\core\Model;
+use lexuanphat\phpmvc\Model;
 
 abstract class BaseField
 {

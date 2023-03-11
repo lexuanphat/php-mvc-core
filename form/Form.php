@@ -1,8 +1,8 @@
 <?php
-namespace app\core\form;
+namespace lexuanphat\phpmvc\form;
 
-use app\core\Model;
-use app\core\form\InputField;
+use lexuanphat\phpmvc\Model;
+use lexuanphat\phpmvc\form\InputField;
 
 class Form
 {

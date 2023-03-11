@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace lexuanphat\phpmvc;
 
-use app\core\db\Database;
+use lexuanphat\phpmvc\db\Database;
 
 class App
 {

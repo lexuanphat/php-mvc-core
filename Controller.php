@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace lexuanphat\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use lexuanphat\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {
@@ -11,7 +11,7 @@ class Controller
     public string $action = '';
 
     /**
-     * @var \app\core\middlewares\BaseMiddleware[]
+     * @var \lexuanphat\phpmvc\middlewares\BaseMiddleware[]
      */
 
     protected array $middlewares = [];

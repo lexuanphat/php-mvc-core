@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace lexuanphat\phpmvc;
 
 abstract class Model
 {
